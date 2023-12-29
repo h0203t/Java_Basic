@@ -11,5 +11,8 @@ public class MemberConstruct {
         this.grade = grade;
     }
 
-    MemberConstruct
+    MemberConstruct(String name, int age) {
+        this(name, age, 50);
+        this.grade = 50;
+    }
 }
