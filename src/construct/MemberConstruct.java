@@ -10,4 +10,6 @@ public class MemberConstruct {
         this.age = age;
         this.grade = grade;
     }
+
+    MemberConstruct
 }
