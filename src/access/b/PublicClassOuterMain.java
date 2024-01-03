@@ -1,6 +1,7 @@
 package access.b;
 
 //import access.a.DefaultClass1;
+//import access.a.DefaultClass2;
 import access.a.PublicClass;
 
 public class PublicClassOuterMain {
@@ -9,5 +10,6 @@ public class PublicClassOuterMain {
 
         //다른 패키지 접근 불가
         //DefaultClass1 defaultClass1 = new DefalutClass1();
+        //DefaultClass2 defaultClass2 = new DefalutClass2();
     }
 }
