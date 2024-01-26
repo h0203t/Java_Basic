@@ -6,10 +6,12 @@ public class AnimalSoundMain1 {
         Dog dog = new Dog();
         Cat cat = new Cat();
         Caw caw = new Caw();
+        Duck duck = new Duck();
 
         soundAnimal(dog);
         soundAnimal(cat);
         soundAnimal(caw);
+        soundAnimal(duck);
     }
 
     private static void soundAnimal(Animal animal){
